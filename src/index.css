@@ -83,3 +83,10 @@ body {
   cursor: pointer;
   background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
 }
+.img-container{
+}
+.meme-img{
+  width: 100%;
+  object-fit: cover;
+  
+}
